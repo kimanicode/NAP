@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.63ccce6d.css",
+    "main.js": "/static/js/main.0e5b0d6e.js",
+    "static/js/496.0320d045.chunk.js": "/static/js/496.0320d045.chunk.js",
+    "static/media/irewolede-PvwdlXqo85k-unsplash.jpg": "/static/media/irewolede-PvwdlXqo85k-unsplash.ccda840bac7197873c94.jpg",
+    "static/media/vid.mp4": "/static/media/vid.8d488ffc975a84c3a98b.mp4",
+    "static/media/nawiri.png": "/static/media/nawiri.7a0f7d9a9d71af517f22.png",
+    "index.html": "/index.html",
+    "main.63ccce6d.css.map": "/static/css/main.63ccce6d.css.map",
+    "main.0e5b0d6e.js.map": "/static/js/main.0e5b0d6e.js.map",
+    "496.0320d045.chunk.js.map": "/static/js/496.0320d045.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63ccce6d.css",
+    "static/js/main.0e5b0d6e.js"
+  ]
+}
