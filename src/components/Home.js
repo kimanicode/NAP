@@ -16,7 +16,7 @@ const Home = ()=>{
             </div>
 
             <div className='h-full basis-1/2 mt-3 md:p-5  py-5'>
-                <img src={bannerImg} className= ' h-3/4  hover:skew-y-6 w-full md:m-5 rounded-2xl' />
+                <img src={bannerImg} className= ' h-3/4  w-full md:m-5 rounded-2xl' />
 
             </div>
 
