@@ -16,7 +16,7 @@ const Video = () => {
       <div className="absolute top-0 left-0 w-full h-full bg-black opacity-50"></div>
       <div className="absolute top-0 left-0 w-full h-full flex items-center justify-center">
         
-        <h1 className="text-xan text-4xl font-bold">Helping farmers to <br></br>feed the world</h1>
+        <h1 className="text-xan text-center text-4xl font-bold">Helping farmers to feed the world</h1>
       </div>
     </div>
   );
