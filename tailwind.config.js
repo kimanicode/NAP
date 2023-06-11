@@ -10,6 +10,7 @@ module.exports = {
         'marian':'#324376' ,
         'xan':'#F3B61F',
       }
+      
     },
   },
   plugins: [],
